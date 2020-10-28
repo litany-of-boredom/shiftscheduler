@@ -12,4 +12,4 @@ The format for each person's availability is:
 
 > [name] [whether or not they were on design team (boolean)] [availability for shift #1 (0 or 1)] [availability for shift #2 (0 or 1)] ...
 
-Upon running the program, the user can select how many shifts, if any, non-design team members should be given.
+Upon running the program, the user can select how many extra shifts, if any, non-design team members should be given.
